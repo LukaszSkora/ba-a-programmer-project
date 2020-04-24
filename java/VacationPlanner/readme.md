@@ -1,3 +1,5 @@
+Solution for a project from Microsoft's edX course "Learn to Program in Java".
+https://www.edx.org/course/learn-to-program-in-java-2
 
 # Module Project - Trip Planner
 
