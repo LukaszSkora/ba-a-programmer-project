@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e185bacc-f4eb-47e4-9e71-a7f316731bfe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1az3QrVEfSV2Onq78qInW2fK5qn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../be-a-programmer-project/java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\programming\be-a-programmer-project\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
+      <module name="Fibonacci" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Fibonacci" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e185bacc-f4eb-47e4-9e71-a7f316731bfe" name="Default Changelist" comment="" />
+      <created>1587724581650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587724581650</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="838" y="318" key="FileChooserDialogImpl" timestamp="1587725297499">
+      <screen x="66" y="0" width="1982" height="1152" />
+    </state>
+    <state x="838" y="318" key="FileChooserDialogImpl/66.0.1982.1152/2560.0.2048.1152@66.0.1982.1152" timestamp="1587725297499" />
+    <state width="1939" height="319" key="GridCell.Tab.0.bottom" timestamp="1587725307093">
+      <screen x="66" y="0" width="1982" height="1152" />
+    </state>
+    <state width="1939" height="319" key="GridCell.Tab.0.bottom/66.0.1982.1152/2560.0.2048.1152@66.0.1982.1152" timestamp="1587725307093" />
+    <state width="1939" height="319" key="GridCell.Tab.0.center" timestamp="1587725307092">
+      <screen x="66" y="0" width="1982" height="1152" />
+    </state>
+    <state width="1939" height="319" key="GridCell.Tab.0.center/66.0.1982.1152/2560.0.2048.1152@66.0.1982.1152" timestamp="1587725307092" />
+    <state width="1939" height="319" key="GridCell.Tab.0.left" timestamp="1587725307092">
+      <screen x="66" y="0" width="1982" height="1152" />
+    </state>
+    <state width="1939" height="319" key="GridCell.Tab.0.left/66.0.1982.1152/2560.0.2048.1152@66.0.1982.1152" timestamp="1587725307092" />
+    <state width="1939" height="319" key="GridCell.Tab.0.right" timestamp="1587725307092">
+      <screen x="66" y="0" width="1982" height="1152" />
+    </state>
+    <state width="1939" height="319" key="GridCell.Tab.0.right/66.0.1982.1152/2560.0.2048.1152@66.0.1982.1152" timestamp="1587725307092" />
+    <state x="720" y="253" key="search.everywhere.popup" timestamp="1587724879453">
+      <screen x="66" y="0" width="1982" height="1152" />
+    </state>
+    <state x="720" y="253" key="search.everywhere.popup/66.0.1982.1152/2560.0.2048.1152@66.0.1982.1152" timestamp="1587724879453" />
+  </component>
+</project>
