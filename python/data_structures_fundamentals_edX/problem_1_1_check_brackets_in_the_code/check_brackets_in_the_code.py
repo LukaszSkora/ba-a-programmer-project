@@ -7,19 +7,19 @@ def main():
 
 def check_brackets(string_of_code):
     stack = []
-    count = 0
+    missing_bracket_place_no = 0
     for char in code_to_check:
-        count += 1
+        missing_bracket_place_no += 1
         if char in '([{':
             stack.append(char)
         else:
             if char not in ')]}':
                 continue
             if len(stack) == 0:
-                return count
+                return missing_bracket_place_no
             top = stack.pop()
             if (top == '[' and char != ']') or (top == '(' and char != ')') or (top == '{' and char != '}'):
-                return count
+                return missing_bracket_place_no
     return "Success"
 
 
