@@ -23,8 +23,4 @@ def check_brackets(string_of_code):
     return "Success"
 
 
-def one_based_index(string, char):
-    return string.index(char) + 1
-
-
 if __name__ == '__main__': main()
