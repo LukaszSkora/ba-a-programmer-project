@@ -1,4 +1,4 @@
-code_to_check = "a)"
+code_to_check = "foo()[](bar[i);"
 
 
 def main():
@@ -7,17 +7,19 @@ def main():
 
 def check_brackets(string_of_code):
     stack = []
+    count = 0
     for char in code_to_check:
+        count += 1
         if char in '([{':
             stack.append(char)
         else:
             if char not in ')]}':
                 continue
             if len(stack) == 0:
-                return string_of_code.index(char)+1
+                return count
             top = stack.pop()
             if (top == '[' and char != ']') or (top == '(' and char != ')') or (top == '{' and char != '}'):
-                return one_based_index(string_of_code, char)
+                return count
     return "Success"
 
 
