@@ -1,28 +1,26 @@
-body
-{
+body {
 	background-color: gray;
 	font-family: Verdana;
 	font-size: 20px;
 	color: white;
 }
 
-h1
-{
+h1 {
 	font-size: 48px;
 	color: red !important;
 }
 
 /*	Nieodwiedzony link*/
-a:link{
+a:link {
 	color: yellow;
 }
 
 /*	Odwiedzony link*/
-a:visted{
+a:visited {
 	color: yellow;
 }
 
 /*	Najechany link*/
-a:hover{
+a:hover {
 	color: red;
 }
