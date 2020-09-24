@@ -1,0 +1,114 @@
+body {
+	margin: 1%;
+	padding: 0%;
+}
+
+header {
+	background-image: url(../images/flywheel.jpg);
+	background-size: cover;
+	background-color: #FFFFFF;
+	padding: 5px;
+}
+
+h1 {
+	text-transform: uppercase;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 150%;
+	padding: 1%;
+}
+
+nav a {
+	width: auto;
+	text-decoration: none;
+	display: inline-block;
+	padding: 2% 5%;
+	text-align: center;
+
+	color: black;
+	background: white;
+	opacity: 0.5;
+
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+	border-radius: 10px;
+
+}
+
+img {
+	display: block;
+	width: 80%;
+	border: solid 1px black;
+	margin: auto;
+	margin-top: 12%;
+	margin-bottom: 12%;
+}
+
+.left{
+	display: inline-block;
+	width: 25%;
+	float: left;
+	overflow: auto;
+	background-color: orange;
+}
+
+.right{
+    display: inline-block;
+    width: 71%;
+    float: left;
+    margin: 0% 2%;
+    overflow: auto;
+}
+
+.active {
+	color: black;
+	background: orange;
+	opacity: 0.5;
+}
+
+nav a:hover {
+	color: black;
+	background: red;
+}
+
+table{
+	font-family: Verdana;
+	text-shadow: .5px .5px gray;
+	margin: 1% 5%;
+	font-size: small;
+	text-align: center;
+}
+
+th{
+	background-color: orange;
+	color: white;
+	border: 1px solid green; 
+	border-bottom: 3px solid green; 
+	padding: 1px 10px 1px 10px;
+	line-height: 40px;
+
+
+	-webkit-border-radius: 10px 10px 0 0;
+	-moz-border-radius: 10px 10px 0 0;
+	-o-border-radius: 10px 10px 0 0;
+	border-radius: 10px 10px 0 0;
+}
+
+th:nth-child(1), td:nth-child(1){
+	text-align: left;
+}
+
+tr:nth-child(n+2){
+	background-color: lightgreen;
+	opacity: .8;
+}
+
+tr:hover{
+	opacity: 1;
+}
+
+td{
+	line-height: 40px;
+	padding: 1px 10px 1px 10px;
+}

@@ -1,0 +1,31 @@
+img {
+	display: none;
+}
+
+header {
+	background: #B3B3B3;
+}
+
+h1 {
+	background: #B3B3B3;
+	text-transform: uppercase;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+h2 {
+	color: #0000FF;
+	text-transform: uppercase;
+}
+
+main {
+	background: #666666;
+}
+
+aside {
+	background: #FFFFFF;
+}
+
+p a, li a {
+	background: #B3B3B3;
+}
